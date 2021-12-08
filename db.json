@@ -140,5 +140,127 @@
       "email": "cturkj@drupal.org",
       "gender": "Polygender"
     }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Cannibal! The Musical (a.k.a. Alferd Packer: The Musical)",
+      "Year": 2008,
+      "Ranking": 7.1
+    },
+    {
+      "id": 2,
+      "title": "Dollman vs. Demonic Toys",
+      "Year": 2007,
+      "Ranking": 4.4
+    },
+    {
+      "id": 3,
+      "title": "Paint It Yellow (Rang De Basanti)",
+      "Year": 2005,
+      "Ranking": 1.2
+    },
+    {
+      "id": 4,
+      "title": "When Brendan Met Trudy",
+      "Year": 1991,
+      "Ranking": 8.3
+    },
+    {
+      "id": 5,
+      "title": "Volcano High (Whasango)",
+      "Year": 2008,
+      "Ranking": 2.0
+    },
+    {
+      "id": 6,
+      "title": "Billy's Holiday",
+      "Year": 1987,
+      "Ranking": 7.8
+    },
+    {
+      "id": 7,
+      "title": "Expecting a Miracle",
+      "Year": 1994,
+      "Ranking": 5.2
+    },
+    {
+      "id": 8,
+      "title": "War You Don't See, The",
+      "Year": 2006,
+      "Ranking": 3.2
+    },
+    {
+      "id": 9,
+      "title": "Indian Summer",
+      "Year": 2006,
+      "Ranking": 5.7
+    },
+    {
+      "id": 10,
+      "title": "Brave, The",
+      "Year": 2010,
+      "Ranking": 7.0
+    },
+    {
+      "id": 11,
+      "title": "Murders in the Rue Morgue",
+      "Year": 2009,
+      "Ranking": 4.1
+    },
+    {
+      "id": 12,
+      "title": "Wasp Woman, The",
+      "Year": 2010,
+      "Ranking": 7.7
+    },
+    {
+      "id": 13,
+      "title": "Metallica: Through the Never",
+      "Year": 2008,
+      "Ranking": 8.9
+    },
+    {
+      "id": 14,
+      "title": "Stray Dog (Nora inu)",
+      "Year": 2010,
+      "Ranking": 3.9
+    },
+    {
+      "id": 15,
+      "title": "Call Me Savage",
+      "Year": 1990,
+      "Ranking": 1.4
+    },
+    {
+      "id": 16,
+      "title": "Samson and Delilah",
+      "Year": 1997,
+      "Ranking": 2.3
+    },
+    {
+      "id": 17,
+      "title": "Tuesday, After Christmas (Marti, dupa craciun)",
+      "Year": 1999,
+      "Ranking": 1.2
+    },
+    {
+      "id": 18,
+      "title": "Christmas in August (Palwolui Christmas)",
+      "Year": 1983,
+      "Ranking": 6.0
+    },
+    {
+      "id": 19,
+      "title": "Coraline",
+      "Year": 1989,
+      "Ranking": 6.6
+    },
+    {
+      "id": 20,
+      "title": "Chang: A Drama of the Wilderness",
+      "Year": 1984,
+      "Ranking": 6.4
+    }
   ]
 }
